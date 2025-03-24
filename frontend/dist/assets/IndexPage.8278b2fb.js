@@ -1,0 +1,1 @@
+import{_ as e}from"./Login.4e8e2b49.js";import{e as o,f as a,o as r,g as n}from"./index.81320dac.js";const _=o({name:"IndexPage",setup(t){return a("Bem vindo ao futuro!"),(s,c)=>(r(),n(e))}});export{_ as default};
